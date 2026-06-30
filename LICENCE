@@ -1,0 +1,328 @@
+================================================================================
+                         LICENCE D'UTILISATION LARKA
+                  Licence propriétaire — Tous droits réservés
+================================================================================
+
+Logiciel  : Larka — Gestion de Maintenance Assistée par Ordinateur (GMAO)
+Auteur     : Mickaël Larcin (alias « Chipsoreo »)
+Copyright  : © 2025-2026 Mickaël Larcin. Tous droits réservés.
+Version de la licence : 1.0 — date d'effet : 2026
+Contact   : [À COMPLÉTER : adresse e-mail de contact de l'Auteur]
+
+--------------------------------------------------------------------------------
+  IMPORTANT — À LIRE INTÉGRALEMENT
+--------------------------------------------------------------------------------
+Ce document est un contrat de licence entre vous (« le Licencié » ou « vous »)
+et l'Auteur. Le téléchargement, l'installation ou l'utilisation du Logiciel vaut
+acceptation pleine et entière des présentes conditions ; lors du premier
+lancement, il vous est demandé de confirmer cette acceptation. Lorsque le
+Logiciel est utilisé au sein d'une organisation, cette acceptation est donnée
+pour le compte de celle-ci, qui s'engage à informer et à former ses utilisateurs
+(voir section 16). Si vous n'acceptez pas ces conditions, n'installez pas et
+n'utilisez pas le Logiciel.
+
+Ceci n'est PAS une licence open source : le Logiciel est un logiciel
+propriétaire.
+
+
+--------------------------------------------------------------------------------
+1. DÉFINITIONS
+--------------------------------------------------------------------------------
+1.1  « Logiciel » : l'application Larka (logiciel de type GMAO) fournie par l'Auteur, sous forme
+     obfusquée, ainsi que ses composants, ressources, fichiers et toute
+     documentation associée, à l'exclusion des Composants Tiers (section 13).
+1.2  « Code source » : le code du Logiciel sous quelque forme que ce soit, qu'il
+     soit en clair (lisible) ou obfusqué. La protection et les présentes
+     conditions s'appliquent identiquement aux deux formes.
+1.3  « Modification » : toute adaptation, traduction, arrangement, correction,
+     transformation, extension, ou création d'œuvre dérivée à partir du Logiciel
+     ou de son Code source, en tout ou en partie.
+1.4  « Contribution » : tout élément que vous transmettez volontairement à
+     l'Auteur en lien avec le Logiciel : par exemple une idée, une suggestion
+     d'amélioration, une demande de fonctionnalité, un signalement de bogue, une
+     proposition de correction, une maquette, une spécification, ou du code
+     (extrait ou complet).
+1.5  « Auteur » : Mickaël Larcin, titulaire des droits sur le Logiciel.
+1.6  « Organisation » : toute personne morale — entreprise, administration,
+     collectivité, association ou autre — qui installe, déploie ou utilise le
+     Logiciel, ou pour le compte de laquelle le Logiciel est utilisé.
+
+
+--------------------------------------------------------------------------------
+2. PROPRIÉTÉ ET RÉSERVE DE DROITS
+--------------------------------------------------------------------------------
+2.1  L'Auteur demeure seul et plein titulaire de l'ensemble des droits de
+     propriété intellectuelle sur le Logiciel et sur son code, qu'il soit
+     modifié ou non.
+2.2  La présente licence n'opère AUCUN transfert de propriété. Seuls vous sont
+     concédés les droits expressément énoncés à la section 3. Tout droit non
+     expressément concédé est réservé.
+2.3  Conformément au droit français, le droit moral de l'Auteur est perpétuel,
+     inaliénable et imprescriptible.
+2.4  Transmission aux héritiers. Au décès de l'Auteur, ses droits patrimoniaux
+     sur le Logiciel sont transmis à ses héritiers et ayants droit pour la durée
+     légale (soixante-dix ans après le décès de l'Auteur — art. L. 123-1 du Code
+     de la propriété intellectuelle), et son droit moral leur est également
+     transmis conformément à l'article L. 121-1 du même code. Les présentes
+     conditions, ainsi
+     que l'ensemble des droits et bénéfices qu'elles confèrent à l'Auteur,
+     profitent à ses héritiers et ayants droit.
+
+
+--------------------------------------------------------------------------------
+3. DROITS CONCÉDÉS (CE QUI EST AUTORISÉ)
+--------------------------------------------------------------------------------
+L'Auteur vous concède un droit personnel, non exclusif, non transférable et
+non sous-licenciable, consenti pour une durée illimitée tant que vous respectez
+les présentes conditions (sous la seule réserve de la résiliation prévue à la
+section 14) :
+3.1  de télécharger le Logiciel depuis la source officielle de l'Auteur
+     (dépôt officiel : [À COMPLÉTER : lien GitHub]) ;
+3.2  de l'installer et de l'exécuter, pour vos besoins propres, y compris
+     professionnels et internes à votre organisation ;
+3.3  de réaliser la reproduction strictement nécessaire à cette installation et
+     à cette exécution (par ex. copie sur votre serveur, sauvegarde technique).
+
+Aucun autre droit n'est concédé. L'usage du Logiciel selon la présente section
+est et demeure GRATUIT, et l'Auteur entend le maintenir gratuit. Les sections 4
+et 5 en fixent les limites.
+
+
+--------------------------------------------------------------------------------
+4. INTERDICTIONS (CE QUI EST INTERDIT SANS AUTORISATION ÉCRITE)
+--------------------------------------------------------------------------------
+Sauf autorisation écrite et préalable de l'Auteur, il vous est interdit :
+4.1  de reproduire le Logiciel au-delà de ce qu'autorise la section 3.3 ; toute
+     reproduction, distribution, mise à disposition, publication, revente,
+     location, prêt ou communication au public, à titre gratuit ou onéreux, est
+     interdite ;
+4.2  de modifier le Logiciel ou d'en créer une œuvre dérivée (voir section 5) ;
+4.3  de décompiler, désassembler, pratiquer l'ingénierie inverse, ou DÉOBFUSQUER
+     le Logiciel (voir section 6 pour le régime de la déobfuscation, et la
+     réserve impérative ci-après) ;
+4.4  de supprimer, masquer ou altérer toute mention de droit d'auteur, de
+     licence, d'identité de l'Auteur ou d'avertissement présente dans le
+     Logiciel ou ses fichiers ;
+4.5  de concéder une sous-licence, ou de transférer la présente licence à un
+     tiers ;
+4.6  d'utiliser la dénomination distinctive « LARKA », ainsi que les marques,
+     logos et signes distinctifs de l'Auteur, pour désigner une version modifiée
+     ou un produit dérivé, ou de laisser entendre un lien officiel non autorisé
+     avec l'Auteur. (Le sigle « GMAO », générique et purement descriptif d'une
+     catégorie de logiciels, n'est pas revendiqué par l'Auteur à titre de marque
+     ou de signe distinctif.)
+     En cas de doute sur un tel usage, une demande motivée peut être adressée à
+     l'Auteur, qui peut l'autoriser au cas par cas et par écrit ; à défaut
+     d'autorisation écrite, l'usage demeure interdit.
+
+Réserve impérative : les interdictions de la section 4.3 ne s'appliquent que
+dans la mesure permise par la loi. Demeurent réservés les actes que la loi
+impérative autorise sans qu'il puisse y être dérogé par contrat, notamment le
+droit de décompilation à des fins d'interopérabilité prévu à l'article L. 122-6-1
+du Code de la propriété intellectuelle, exercé dans les strictes conditions que
+cet article fixe.
+
+
+--------------------------------------------------------------------------------
+5. MODIFICATIONS : AUTORISATION PRÉALABLE OBLIGATOIRE
+--------------------------------------------------------------------------------
+5.1  Toute Modification du Logiciel est interdite sans l'autorisation écrite et
+     préalable de l'Auteur.
+5.2  Pour demander une autorisation de modifier, adressez à l'Auteur (contact
+     ci-dessus) une demande écrite indiquant, de façon concrète et sérieuse,
+     l'objectif poursuivi et la description des Modifications envisagées.
+5.3  L'Auteur apprécie chaque demande à sa seule et entière discrétion. Il n'est
+     jamais tenu d'accorder une autorisation, ni de motiver un refus.
+5.4  Une autorisation éventuelle est strictement limitée à son objet, à sa durée
+     et aux conditions qu'elle énonce ; elle n'emporte aucune renonciation aux
+     présentes ni aucune cession de droits.
+
+
+--------------------------------------------------------------------------------
+6. FORME OBFUSQUÉE ET ACCÈS AU CODE / CLÉ DE DÉOBFUSCATION
+--------------------------------------------------------------------------------
+6.1  Le Logiciel est distribué sous forme obfusquée.
+6.2  Le Code source en clair et/ou la clé permettant la déobfuscation peuvent
+     être communiqués, à la seule et entière discrétion de l'Auteur, sur demande
+     écrite. La demande doit : (a) identifier précisément le demandeur ;
+     (b) exposer un objectif concret et sérieux de Modification ; (c) décrire
+     les Modifications envisagées. Cette communication, lorsqu'elle a lieu, est
+     strictement personnelle au demandeur autorisé : elle ne l'autorise en aucun
+     cas à partager, publier, transmettre ou redistribuer le Code source ou la
+     clé, qu'ils soient obfusqués ou déobfusqués.
+6.3  NE CONSTITUE PAS UN MOTIF VALABLE, et sera refusée, toute demande dont la
+     finalité réelle est la simple consultation, lecture, étude, audit, examen,
+     vérification, analyse, inspection, curiosité, ou « pour voir » / « juste
+     pour regarder », quelle que soit la formulation employée. Cette exclusion
+     s'entend de manière large et couvre toute reformulation, tournure de
+     phrase, choix de ponctuation, euphémisme, sous-entendu ou présentation
+     ayant pour objet ou pour effet de contourner la présente clause. Demeure
+     toutefois réservée toute obligation légale impérative qui s'imposerait au
+     demandeur et à laquelle il ne pourrait être dérogé (voir la réserve
+     impérative de la section 4).
+6.4  L'Auteur apprécie souverainement la validité du motif, n'est jamais tenu de
+     communiquer le Code source ou la clé, ni de motiver un refus.
+6.5  La communication éventuelle du Code source ou de la clé n'emporte aucune
+     cession de droits ni aucune autorisation de Modification au-delà de ce que
+     l'Auteur autorise expressément et par écrit (section 5).
+
+
+--------------------------------------------------------------------------------
+7. CONTRIBUTIONS (IDÉES ET MODIFICATIONS PROPOSÉES)
+--------------------------------------------------------------------------------
+7.1  En clair : si vous envoyez une Contribution à l'Auteur, vous l'autorisez à
+     l'utiliser et à l'intégrer librement au Logiciel (ou à un autre de ses
+     projets), sans avoir à vous redemander quoi que ce soit et sans vous devoir
+     de paiement. Juridiquement, vous concédez à l'Auteur, à titre gratuit,
+     irrévocable, mondial et pour toute la durée légale des droits, un droit non
+     exclusif d'utiliser, reproduire, modifier, exploiter, intégrer et distribuer
+     votre Contribution, sous toute licence de son choix. « Non exclusif »
+     signifie que vous conservez le droit d'utiliser votre propre idée ailleurs.
+7.2  L'Auteur n'est nullement tenu d'examiner, d'utiliser, d'intégrer ni de
+     répondre à une Contribution.
+7.3  Vous certifiez que votre Contribution est bien la vôtre (ou que vous avez
+     le droit de la transmettre) et qu'elle ne copie pas et ne viole pas le
+     travail ou les droits d'une autre personne. Vous demeurez seul responsable
+     de votre Contribution : en cas d'erreur ou de réclamation d'un tiers la
+     concernant (par exemple si vous transmettez, par mégarde ou non, un élément
+     appartenant à un tiers), vous en répondez et garantissez l'Auteur contre
+     toute conséquence en résultant.
+7.4  L'envoi d'une Contribution ne crée aucune relation de confidentialité, de
+     partenariat, ni aucune obligation de rémunération à votre profit.
+7.5  Crédit (facultatif). À votre demande, formulée lors de l'envoi de votre
+     Contribution par e-mail, l'Auteur peut vous créditer — nom de la personne
+     physique, nom de la personne morale ou raison sociale — dans le README ou
+     dans tout autre fichier approprié (par exemple un fichier AUTHORS /
+     CONTRIBUTORS). Ce crédit est une faculté offerte, non une obligation.
+
+
+--------------------------------------------------------------------------------
+8. ABSENCE DE GARANTIE
+--------------------------------------------------------------------------------
+LE LOGICIEL EST FOURNI « EN L'ÉTAT », SANS AUCUNE GARANTIE D'AUCUNE SORTE,
+EXPRESSE OU IMPLICITE, NOTAMMENT SANS GARANTIE DE QUALITÉ MARCHANDE, D'ADÉQUATION
+À UN USAGE PARTICULIER, NI D'ABSENCE DE DÉFAUT OU D'INTERRUPTION. VOUS UTILISEZ
+LE LOGICIEL À VOS SEULS RISQUES.
+
+
+--------------------------------------------------------------------------------
+9. LIMITATION DE RESPONSABILITÉ
+--------------------------------------------------------------------------------
+DANS LA LIMITE PERMISE PAR LA LOI, L'AUTEUR NE SAURAIT ÊTRE TENU RESPONSABLE
+D'AUCUN DOMMAGE DIRECT OU INDIRECT, NOTAMMENT PERTE DE DONNÉES, PERTE
+D'EXPLOITATION, PERTE DE PROFIT OU INTERRUPTION D'ACTIVITÉ, RÉSULTANT DE
+L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER LE LOGICIEL.
+
+Précision : cette clause vise les pertes éventuellement subies par VOUS,
+l'utilisateur (par exemple si le Logiciel dysfonctionne et vous fait perdre des
+données, du chiffre d'affaires ou du temps). Elle est sans rapport avec la
+finalité — lucrative ou non — du Logiciel lui-même, qui est fourni gratuitement.
+
+
+--------------------------------------------------------------------------------
+10. AVERTISSEMENT PÉNAL — CONTREFAÇON
+--------------------------------------------------------------------------------
+Le Logiciel est une œuvre de l'esprit protégée par le droit d'auteur. Toute
+reproduction, représentation, Modification, déobfuscation ou diffusion non
+autorisée constitue un délit de CONTREFAÇON.
+
+Outre la réparation civile du préjudice (dommages-intérêts, saisie, cessation),
+la contrefaçon est sanctionnée pénalement de peines pouvant aller jusqu'à TROIS
+(3) ANS D'EMPRISONNEMENT et 300 000 € D'AMENDE (art. L. 335-2 et L. 335-3 du
+Code de la propriété intellectuelle), peines portées à SEPT (7) ANS et 750 000 €
+lorsque les faits sont commis en bande organisée. Le contournement d'une mesure
+technique de protection est par ailleurs sanctionné de façon autonome.
+
+
+--------------------------------------------------------------------------------
+11. PROTECTION INTERNATIONALE — TOUS DROITS RÉSERVÉS
+--------------------------------------------------------------------------------
+Le Logiciel est protégé en France et à l'étranger par le droit d'auteur et par
+les conventions internationales applicables, notamment la Convention de Berne
+pour la protection des œuvres littéraires et artistiques, l'Accord sur les
+ADPIC (TRIPS) et le Traité de l'OMPI sur le droit d'auteur (WCT). L'Auteur
+réserve l'ensemble de ses droits dans le monde entier. Tous droits réservés.
+
+
+--------------------------------------------------------------------------------
+12. AUTRES LICENCES
+--------------------------------------------------------------------------------
+Le Logiciel est et demeure GRATUIT pour les usages concédés à la section 3 :
+la présente section ne rend rien payant. Elle réserve seulement à l'Auteur la
+possibilité d'accorder, à qui en ferait la demande et par accord écrit distinct,
+des droits SUPPLÉMENTAIRES (par exemple le droit de modifier, ou un accord
+particulier) — éventuellement à titre onéreux. Cela n'affecte en rien la mise à
+disposition gratuite du Logiciel pour tous les autres.
+
+
+--------------------------------------------------------------------------------
+13. COMPOSANTS TIERS
+--------------------------------------------------------------------------------
+Le Logiciel intègre la bibliothèque tierce ZXing, qui demeure régie par sa
+propre licence d'origine et n'est pas couverte par la présente licence ni par le
+droit d'auteur de l'Auteur. Ses mentions de licence doivent être conservées.
+
+
+--------------------------------------------------------------------------------
+14. RÉSILIATION
+--------------------------------------------------------------------------------
+14.1 La présente licence prend fin automatiquement, de plein droit et sans
+     préavis, en cas de manquement à l'une quelconque de ses dispositions.
+14.2 À la cessation, vous devez immédiatement cesser tout usage et détruire
+     toutes les copies du Logiciel en votre possession.
+14.3 Les sections 2, 7, 8, 9, 10, 11 et 16 survivent à la cessation.
+
+
+--------------------------------------------------------------------------------
+15. DISPOSITIONS GÉNÉRALES
+--------------------------------------------------------------------------------
+15.1 Droit applicable : la présente licence est régie par le droit français.
+15.2 Juridiction : tout litige relève de la compétence des juridictions
+     françaises du ressort du domicile de l'Auteur, sous réserve des règles
+     impératives de compétence.
+15.3 Divisibilité : si une stipulation est jugée nulle ou inapplicable, les
+     autres demeurent pleinement en vigueur, et la stipulation concernée sera
+     réputée remplacée par une stipulation valable d'effet équivalent le plus
+     proche.
+15.4 Absence de renonciation : le fait pour l'Auteur de ne pas se prévaloir
+     d'une stipulation ne vaut pas renonciation à s'en prévaloir ultérieurement.
+15.5 Intégralité : la présente licence (et, le cas échéant, un accord écrit
+     distinct au sens de la section 12) exprime l'intégralité de l'accord
+     relatif au Logiciel.
+
+
+--------------------------------------------------------------------------------
+16. ACCEPTATION ET USAGE EN ORGANISATION
+--------------------------------------------------------------------------------
+16.1 Acceptation au sein d'une Organisation. Lorsque le Logiciel est installé,
+     déployé ou utilisé au sein d'une organisation (entreprise, administration,
+     collectivité, association ou autre), les présentes sont acceptées pour le
+     compte de cette organisation par la personne qui en assure l'installation,
+     le déploiement ou l'administration, ou qui valide l'acceptation au premier
+     lancement. La validation de l'acceptation au premier lancement vaut
+     acceptation pour le compte de l'organisation ; elle fait preuve de l'accès
+     aux présentes conditions et permet d'identifier l'organisation utilisatrice
+     et le compte concerné.
+
+16.2 Responsabilité de l'Organisation. Toute organisation mettant le Logiciel à
+     disposition de ses employés ou utilisateurs est responsable de leur
+     formation, de leur supervision et du respect des présentes conditions
+     d'utilisation. Elle répond des comptes qu'elle crée et administre ainsi que
+     des actes de ses utilisateurs autorisés, et s'engage à les informer des
+     présentes conditions. En cas de litige, réclamation ou action lié à cette
+     utilisation, elle en fait son affaire personnelle et garantit l'Auteur
+     contre toute conséquence en résultant, y compris à l'égard des tiers, dans
+     la limite permise par la loi.
+
+16.3 Articulation des relations. Le Logiciel est mis à disposition gratuitement
+     par l'Auteur, personne physique. Les obligations prévues aux présentes à la
+     charge d'une organisation résultent de son seul choix d'utiliser le
+     Logiciel. Les rapports entre l'organisation et ses utilisateurs (salariés,
+     agents ou préposés) — information, encadrement, formation, règlement
+     intérieur, charte informatique — relèvent de la seule responsabilité de
+     l'organisation et du droit qui leur est applicable. La responsabilité de
+     l'Auteur demeure limitée dans les conditions prévues aux sections 8 et 9.
+
+================================================================================
+  © 2025-2026 Mickaël Larcin (« Chipsoreo »). Tous droits réservés.
+================================================================================
