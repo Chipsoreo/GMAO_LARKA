@@ -57,18 +57,6 @@ codes-barres / QR). Surface d'attaque réduite, montées de version simplifiées
 - ⚡ **Chargement paresseux** du frontend (lazy-loading) avec préchargement intelligent selon le rôle.
 - 🎨 **Écran de connexion personnalisable** par le super-administrateur (couleurs, fond animé, CSS filtré — voir plus bas).
 
----
-
-## 🖼️ Captures
-
-> _À compléter : ajoutez vos captures dans un dossier `docs/screenshots/` puis référencez-les ici._
->
-> ```markdown
-> ![Tableau de bord](docs/screenshots/dashboard.png)
-> ![Écran de connexion](docs/screenshots/login.png)
-> ```
-
----
 
 ## 🧱 Stack technique
 
